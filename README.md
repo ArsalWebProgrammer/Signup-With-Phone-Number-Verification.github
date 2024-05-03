@@ -1,7 +1,4 @@
 # SignupWithPhoneNumberVerification.github
-Sure! Below is an example of a README file with instructions and examples for implementing phone number verification using Twilio in PHP:
-
-```
 # Phone Number Verification with Twilio
 
 This code snippet demonstrates how to implement phone number verification using Twilio in PHP. With this functionality, you can enhance the security of your signup process by verifying users' phone numbers before allowing them to proceed with registration.
@@ -111,6 +108,3 @@ Contributions are welcome! If you have any suggestions, improvements, or bug fix
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```
-
-This README provides clear instructions on how to set up and use the code snippet for phone number verification with Twilio in PHP, along with examples of the PHP code and HTML markup.
